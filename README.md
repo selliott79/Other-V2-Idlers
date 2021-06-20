@@ -19,5 +19,7 @@ BOM:
 These components will soon be offered as a kit by https://formosissima.com/
 
 ![image](https://user-images.githubusercontent.com/65414930/122688357-6a86d480-d1e1-11eb-9a6a-7131d131655e.png)
+"Other" Idlers vs. stock V2.4 idlers
+
 ![image](https://user-images.githubusercontent.com/65414930/122688376-7ffbfe80-d1e1-11eb-84d0-311bcf6c26bf.png)
 ![image](https://user-images.githubusercontent.com/65414930/122688437-c6515d80-d1e1-11eb-84bf-6041ab9b4e93.png)

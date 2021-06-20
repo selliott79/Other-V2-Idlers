@@ -16,7 +16,7 @@ BOM:
 2 ea. Voron - standard heat set
 2 ea. M3 x 16 SHCS
 
-These components will soon be offered as a kit by https://formosissima.com/
+These components will soon be offered as a kit by https://formosissima.com/products/other-v2-idlers-kit
 
 ![image](https://user-images.githubusercontent.com/65414930/122688357-6a86d480-d1e1-11eb-9a6a-7131d131655e.png)
 "Other" Idlers vs. stock V2.4 idlers

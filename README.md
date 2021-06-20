@@ -15,3 +15,6 @@ BOM:
 2 ea. M3 nut
 2 ea. Voron - standard heat set
 2 ea. M3 x 16 SHCS
+
+These components will soon be offered as a kit by https://formosissima.com/
+

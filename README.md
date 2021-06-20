@@ -1,5 +1,5 @@
 # "Other" V2 Idlers
- Alternative Idlers that allow usage of wide toolheads without the loss of travel at the front of bed.
+ Alternative Idlers that allow the usage of "Full-Figured" toolheads without the loss of travel at the front of bed.
 
 These idlers were developed to allow the usage of wider toolheads with the Voron V2, better align the tensioning screw to the centerline of the idler shaft, add guides to the parts to allow them to interlock and provide a robust tensioning system, and streamline the process of making fine adjustments to tensioning. 
 I am currently running these on my machine and have not seen any performance issues. At this point, I am planning to open them up to more broad beta testing. 

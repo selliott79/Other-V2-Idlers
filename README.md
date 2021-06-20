@@ -10,7 +10,7 @@ BOM:
 2 ea. 5mm OD x 45mm L pins - may need to be polished down to fit the bearings depending on source. 
 4 ea. F695 bearings
 4 ea. 0.5mm thick 5mm shims
-2 ea. M3x40mm length SHCS - You may need to run 5mm shorter screws if you run the bolted hinge mod.
+2 ea. M3x35mm length SHCS - Stock 40mm may be run if not using the bolted door hinge mod. 
 2 ea. M3 flat washer
 2 ea. M3 nut
 2 ea. Voron - standard heat set

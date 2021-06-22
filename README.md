@@ -21,5 +21,20 @@ These components will soon be offered as a kit by https://formosissima.com/produ
 ![image](https://user-images.githubusercontent.com/65414930/122688357-6a86d480-d1e1-11eb-9a6a-7131d131655e.png)
 "Other" Idlers vs. stock V2.4 idlers
 
+
 ![image](https://user-images.githubusercontent.com/65414930/122688376-7ffbfe80-d1e1-11eb-84d0-311bcf6c26bf.png)
+
+
+
 ![image](https://user-images.githubusercontent.com/65414930/122688437-c6515d80-d1e1-11eb-84bf-6041ab9b4e93.png)
+
+
+![20210619_102801](https://user-images.githubusercontent.com/65414930/122848149-98961280-d2ce-11eb-99c0-5b0b7387a849.jpg)
+Be sure to fully insert the m3 heat sink so that it doesn't interfere with the bearings!
+
+![20210619_114935](https://user-images.githubusercontent.com/65414930/122848219-b95e6800-d2ce-11eb-8364-58fcbf4ed25d.jpg)
+
+
+![20210620_155754](https://user-images.githubusercontent.com/65414930/122848232-bd8a8580-d2ce-11eb-8203-3d85482990ca.jpg)
+
+![20210619_213153](https://user-images.githubusercontent.com/65414930/122848297-e14dcb80-d2ce-11eb-9942-082bb1cd4e2e.jpg)
